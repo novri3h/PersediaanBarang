@@ -8,7 +8,7 @@
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-ProgramLaundry/graphs/commit-activity)
 
-## Features Program Laundry
+## Features Persediaan barang
 
 - Data Barang
 - Data Pemakai
@@ -47,7 +47,7 @@ Aplikasi ini dibangun dengan menggunakan:
 ## Requirement
 
 - Visual Basic 6.0
-- Cristal Report 8 or later
+- Crystal Reports 8 or later
 - Windows XP or later
 
 ## Installation
