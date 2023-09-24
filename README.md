@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi persediaan barang adalah perangkat lunak yang digunakan oleh bisnis atau organisasi untuk mengelola dan mengawasi stok atau persediaan barang yang dimilikinya. Tujuan utama dari aplikasi ini adalah untuk membantu bisnis dalam mengoptimalkan proses pengelolaan persediaan mereka, mengurangi risiko kekurangan atau kelebihan persediaan, dan meningkatkan efisiensi operasional.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-ProgramLaundry/graphs/commit-activity)
 
